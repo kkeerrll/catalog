@@ -1,1 +1,1 @@
-# dj
+# dj_homework_2
